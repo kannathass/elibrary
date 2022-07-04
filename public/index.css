@@ -1,0 +1,21 @@
+.row {
+    margin-top: 15px;
+}
+
+button {
+    margin: 10px;
+}
+
+.btn {
+    border-radius: 18px;
+}
+
+.fa {
+    font-size: 40px !important;
+}
+
+/* div .sign-in {
+    height: 400px;
+    width: 100%;
+    background-image: url("./images/login-img.jpg");
+ } */
